@@ -1,4 +1,4 @@
 studying
 ========
 
-For Linux Studying
+For 51_MCU Studying
